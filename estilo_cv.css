@@ -1,0 +1,52 @@
+h1{
+    font-size: 65px;
+    background-color: rgb(117, 61, 96);
+    text-transform: uppercase;
+    color: green;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+    }
+h3{
+    font-size: 30px;
+    color:purple;
+    text-align:justify;
+}
+h4{
+    font-size: 20px;
+    color: red;
+    text-align: justify;
+}
+#micaja{
+    width: 450px;
+    background-color:rosybrown;
+    font-size: 15px;
+    color:rgb(17, 15, 15);
+    text-align: center;
+    padding: 20px;
+    border: 4px solid; color: darkred;
+    margin-left: 470px;
+    
+    }
+
+ ol{
+     background-color: sandybrown;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 15px;
+     text-align: justify;
+     margin-left: 300px;
+     margin-right: 300px;
+     color: crimson;
+     margin-left: 10%;
+ }
+ p{
+     margin-left: 10%;
+     margin-right: 10%;
+     text-align: justify;
+     font-size: 20px;
+         
+    
+ }   
